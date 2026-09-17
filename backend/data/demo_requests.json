@@ -1,0 +1,92 @@
+[
+  {
+    "request_id": "REQ-01",
+    "employee_name": "Aditi Sharma",
+    "message": "My laptop won't turn on, completely dead, and it's about 3.5 years old.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-02",
+    "employee_name": "Vikram Chawla",
+    "message": "I need guest Wi-Fi tomorrow.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-03",
+    "employee_name": "Karan Mehta",
+    "message": "I am locked out after 6 password attempts.",
+    "status": "In progress — reset queued"
+  },
+  {
+    "request_id": "REQ-04",
+    "employee_name": "Ritu Bhatia",
+    "message": "I need approval to install a data-analysis tool that is not in the catalog.",
+    "status": "Waiting on Security review"
+  },
+  {
+    "request_id": "REQ-05",
+    "employee_name": "Sanjay Oberoi",
+    "message": "My VPN stopped working because my credentials expired.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-06",
+    "employee_name": "Meera Iyer",
+    "message": "The printer on the 3rd floor shows a paper jam even though there is no jam.",
+    "status": "Investigating — technician assigned"
+  },
+  {
+    "request_id": "REQ-07",
+    "employee_name": "Farhan Ali",
+    "message": "I work from home 4 days a week. How do I get a monitor?",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-08",
+    "employee_name": "Ananya Reddy",
+    "message": "I received a suspected phishing email asking for my login details and forwarded it to teammates.",
+    "status": "Escalated to Security (auto-flagged)"
+  },
+  {
+    "request_id": "REQ-09",
+    "employee_name": "Rohit Desai",
+    "message": "My mailbox is full and I can't send emails.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-10",
+    "employee_name": "Kavya Pillai",
+    "message": "I need urgent admin access to the finance reporting server.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-11",
+    "employee_name": "Nikhil Bansal",
+    "message": "We have a new contractor next week who needs VPN access.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-12",
+    "employee_name": "Sneha Kulkarni",
+    "message": "I cannot log into the expense tool because of invalid credentials.",
+    "status": "Waiting on employee response (asked for screenshot, no reply yet)"
+  },
+  {
+    "request_id": "REQ-13",
+    "employee_name": "Aman Gupta",
+    "message": "My laptop screen flickers. It is 2 years old and I might need a fix, not a replacement.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-14",
+    "employee_name": "Tanya Chopra",
+    "message": "I need approval to install a browser extension for productivity tracking.",
+    "status": "Not started"
+  },
+  {
+    "request_id": "REQ-15",
+    "employee_name": "Rahul Menon",
+    "message": "hey can you help, its not working",
+    "status": "Not started"
+  }
+]

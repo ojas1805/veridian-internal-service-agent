@@ -1,0 +1,82 @@
+[
+  {
+    "ticket_id": "TK-1042",
+    "employee": "R. Verma",
+    "issue_summary": "VPN credential expired",
+    "status": "Resolved (closed)",
+    "category": "VPN",
+    "policy_id": "KB-02"
+  },
+  {
+    "ticket_id": "TK-1043",
+    "employee": "S. Iyer",
+    "issue_summary": "Laptop replacement (3.2 yrs old)",
+    "status": "Approved — pending fulfillment (active)",
+    "category": "Laptop Replacement",
+    "policy_id": "KB-03"
+  },
+  {
+    "ticket_id": "TK-1044",
+    "employee": "A. Khan",
+    "issue_summary": "Non-catalog software request",
+    "status": "Pending Security review (active)",
+    "category": "Software Installation",
+    "policy_id": "KB-04"
+  },
+  {
+    "ticket_id": "TK-1045",
+    "employee": "P. Joshi",
+    "issue_summary": "Mailbox quota increase",
+    "status": "Approved at 35GB (closed)",
+    "category": "Email",
+    "policy_id": "KB-06"
+  },
+  {
+    "ticket_id": "TK-1046",
+    "employee": "M. Das",
+    "issue_summary": "Printer paper jam, floor 2",
+    "status": "Resolved (closed)",
+    "category": "Printer",
+    "policy_id": "KB-05"
+  },
+  {
+    "ticket_id": "TK-1047",
+    "employee": "K. Singh",
+    "issue_summary": "Home office equipment request",
+    "status": "Pending Finance (active)",
+    "category": "Work-From-Home Equipment",
+    "policy_id": "KB-10"
+  },
+  {
+    "ticket_id": "TK-1048",
+    "employee": "T. Rao",
+    "issue_summary": "Phishing email reported",
+    "status": "Escalated to Security — under investigation (active)",
+    "category": "Security Incident",
+    "policy_id": "KB-09"
+  },
+  {
+    "ticket_id": "TK-1049",
+    "employee": "V. Nambiar",
+    "issue_summary": "Password reset",
+    "status": "Resolved (closed)",
+    "category": "Password Reset",
+    "policy_id": "KB-01"
+  },
+  {
+    "ticket_id": "TK-1050",
+    "employee": "J. Fernandes",
+    "issue_summary": "Admin access request",
+    "status": "Rejected — no business justification provided (closed)",
+    "category": "Admin Access",
+    "policy_id": null
+  },
+  {
+    "ticket_id": "TK-1051",
+    "employee": "L. Menon",
+    "issue_summary": "Guest Wi-Fi issued",
+    "status": "Resolved (closed)",
+    "category": "Guest Wi-Fi",
+    "policy_id": "KB-07"
+  }
+]
